@@ -4,12 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TV Digital</title>
+    <link href="https://db.onlinewebfonts.com/c/f147179ef27e8141cadd3f6bca344f21?family=Abadi+MT+Std+Condensed" rel="stylesheet">
     <style>
-        @font-face {
-            font-family: 'Abadi';
-            src: local('Abadi'), url('assets/fonts/Abadi.woff2') format('woff2');
-        }
-        body { margin: 0; overflow: hidden; background-color: black; color: white; }
+        body { margin: 0; overflow: hidden; background-color: black; color: white; font-family: 'Abadi MT Std Condensed', sans-serif;}
         .media-container { display: flex; justify-content: center; align-items: center; width: 100vw; height: 90vh; }
         img, iframe, video { width: 100vw; height: 90vh; object-fit: contain; display: none; }
 
@@ -53,11 +50,11 @@
     <div class="running-text-container">
         <div class="running-text-wrapper">
             <span class="running-text">
-                📢 Selamat datang di Masjid Digital | ⏰ Jadwal Sholat: Subuh 04:30 | Dzuhur 12:00 | Ashar 15:30 | Maghrib 18:00 | Isya 19:30 | 
+                Jarak Mekkah tidak akan berubah, jika kamu tidak pernah melangkah | Umrah bukan soal harga, tapi soal berkah
                 "Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lain." - HR. Ahmad &nbsp; &nbsp;
             </span>
             <span class="running-text">
-                📢 Selamat datang di Masjid Digital | ⏰ Jadwal Sholat: Subuh 04:30 | Dzuhur 12:00 | Ashar 15:30 | Maghrib 18:00 | Isya 19:30 | 
+                Jarak Mekkah tidak akan berubah, jika kamu tidak pernah melangkah | Umrah bukan soal harga, tapi soal berkah
                 "Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lain." - HR. Ahmad &nbsp; &nbsp;
             </span>
         </div>
