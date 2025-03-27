@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TV Digital</title>
+    <title>TV Digital HMB</title>
     <link href="https://db.onlinewebfonts.com/c/f147179ef27e8141cadd3f6bca344f21?family=Abadi+MT+Std+Condensed" rel="stylesheet">
     <style>
         body { margin: 0; overflow: hidden; background-color: black; color: white; font-family: 'Abadi MT Std Condensed', sans-serif;}
